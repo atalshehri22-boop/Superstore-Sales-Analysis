@@ -1,5 +1,6 @@
 # Superstore Sales Analysis & Forecasting 📊
 
+```markdown
 ## 🌟 Overview
 مشروع متكامل يجمع بين التحليل الإحصائي باستخدام **Python** والعرض التفاعلي باستخدام **Power BI Dashboard**. قمت من خلاله بتنظيف البيانات، إجراء تحليل استكشافي (EDA)، وبناء نموذج تنبؤي للمبيعات.
 

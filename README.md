@@ -24,4 +24,4 @@
 ---
 
 ## 🚀 How to Run | طريقة التشغيل
-يمكنك فتح ملف `superstor-analysis.ipynb` مباشرة هنا على GitHub لمشاهدة الكود والنتائج.
+يمكنك فتح ملف [superstor-analysis.ipynb](./superstor-analysis.ipynb) مباشرة هنا على GitHub لمشاهدة الكود والنتائج.
